@@ -72,7 +72,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="[https://avatars3.githubusercontent.com/u/31936044](https://avatars.githubusercontent.com/u/84324155?s=400&u=33856695ec1181b5d476451a79520de3bec9e4d9&v=4)" width="100px;" alt="Foto do João Hall no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/84324155?s=400&u=33856695ec1181b5d476451a79520de3bec9e4d9&v=4" width="100px;" alt="Foto do João Hall no GitHub"/><br>
         <sub>
           <b>João Hall</b>
         </sub>
